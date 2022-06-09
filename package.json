@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "push": "echo 'kaalicartel.com' > build/CNAME; gh-pages --dist build",
+    "push": "npm run build && echo 'kaalicartel.com' > build/CNAME && gh-pages --dist build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
