@@ -9,8 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to the Kaali cartel</h1>
         <p className='description'>
-          A metacartel <b>($KAALI)</b> aimed at generating 
-          profits by manipulating other DAOs.</p>
+          A decentralized fund <b>($KAALI)</b> aimed at generating 
+          profits from DAOs.</p>
         <a
           href="https://mirror.xyz/0x6B9B88c8ccf62F97F230F18674689be8d6E43f15/HKjy7awgvP0N3TzWdPmfkoinSEvuW0QqO8CWZQijnkI"
           target="_blank"
